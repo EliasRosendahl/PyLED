@@ -3,7 +3,7 @@ A project for controlling an Arduino using Flask and pySerial.
 
 ## How to use
 * Clone the repository somewhere on your filesystem
-* (optional) create and activate a virtual invieroment
+* (optional) create and activate a virtual environment
 
 `$ virtualenv venv`\
 `$ source venv/Scripts/activate`
